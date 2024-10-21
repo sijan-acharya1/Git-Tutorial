@@ -1,2 +1,2 @@
-console.log('File 2');
+console.log('File2.js');
 console.log('Version 2');
